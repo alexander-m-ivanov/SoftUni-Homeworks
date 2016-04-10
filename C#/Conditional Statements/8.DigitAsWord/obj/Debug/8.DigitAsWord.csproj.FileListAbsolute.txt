@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\8.DigitAsWord\bin\Debug\8.DigitAsWord.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\8.DigitAsWord\obj\Debug\8.DigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\8.DigitAsWord\bin\Debug\8.DigitAsWord.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\8.DigitAsWord\bin\Debug\8.DigitAsWord.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\8.DigitAsWord\obj\Debug\8.DigitAsWord.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\8.DigitAsWord\obj\Debug\8.DigitAsWord.pdb

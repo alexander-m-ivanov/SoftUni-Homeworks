@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\1\1\bin\Debug\1.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\1\1\bin\Debug\1.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\1\1\bin\Debug\1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\1\1\obj\Debug\1.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\1\1\obj\Debug\1.pdb

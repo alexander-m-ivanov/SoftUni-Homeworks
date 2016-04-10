@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\5.TheBiggestOf3Numbers\bin\Debug\5.TheBiggestOf3Numbers.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\5.TheBiggestOf3Numbers\bin\Debug\5.TheBiggestOf3Numbers.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\5.TheBiggestOf3Numbers\bin\Debug\5.TheBiggestOf3Numbers.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\5.TheBiggestOf3Numbers\obj\Debug\5.TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\5.TheBiggestOf3Numbers\obj\Debug\5.TheBiggestOf3Numbers.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\5.TheBiggestOf3Numbers\obj\Debug\5.TheBiggestOf3Numbers.pdb

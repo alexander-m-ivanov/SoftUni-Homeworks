@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\3.Min,Max,SumAndAverageOfNNumbers\bin\Debug\3.Min,Max,SumAndAverageOfNNumbers.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\3.Min,Max,SumAndAverageOfNNumbers\bin\Debug\3.Min,Max,SumAndAverageOfNNumbers.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\3.Min,Max,SumAndAverageOfNNumbers\bin\Debug\3.Min,Max,SumAndAverageOfNNumbers.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\3.Min,Max,SumAndAverageOfNNumbers\obj\Debug\3.Min,Max,SumAndAverageOfNNumbers.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\3.Min,Max,SumAndAverageOfNNumbers\obj\Debug\3.Min,Max,SumAndAverageOfNNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\garbage\bin\Debug\garbage.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\garbage\bin\Debug\garbage.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\garbage\bin\Debug\garbage.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\garbage\obj\Debug\garbage.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\garbage\obj\Debug\garbage.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\garbage\obj\Debug\1.Average.csprojResolveAssemblyReference.cache

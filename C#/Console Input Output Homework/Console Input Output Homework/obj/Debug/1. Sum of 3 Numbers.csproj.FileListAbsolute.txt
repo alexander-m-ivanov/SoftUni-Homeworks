@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Console Input Output Homework\bin\Debug\Console Input Output Homework.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Console Input Output Homework\bin\Debug\Console Input Output Homework.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Console Input Output Homework\bin\Debug\Console Input Output Homework.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Console Input Output Homework\obj\Debug\1. Sum of 3 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Console Input Output Homework\obj\Debug\Console Input Output Homework.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Console Input Output Homework\obj\Debug\Console Input Output Homework.pdb

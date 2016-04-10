@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\4.PrintADeckOf52Cards\bin\Debug\4.PrintADeckOf52Cards.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\4.PrintADeckOf52Cards\bin\Debug\4.PrintADeckOf52Cards.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\4.PrintADeckOf52Cards\bin\Debug\4.PrintADeckOf52Cards.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\4.PrintADeckOf52Cards\obj\Debug\4.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\4.PrintADeckOf52Cards\obj\Debug\4.PrintADeckOf52Cards.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\7.Loops-Homework\4.PrintADeckOf52Cards\obj\Debug\4.PrintADeckOf52Cards.pdb

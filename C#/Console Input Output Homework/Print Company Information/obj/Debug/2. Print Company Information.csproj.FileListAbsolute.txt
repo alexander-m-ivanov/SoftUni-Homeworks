@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Print Company Information\bin\Debug\Print Company Information.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Print Company Information\bin\Debug\Print Company Information.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Print Company Information\bin\Debug\Print Company Information.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Print Company Information\obj\Debug\Print Company Information.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Console Input Output Homework\Print Company Information\obj\Debug\Print Company Information.pdb

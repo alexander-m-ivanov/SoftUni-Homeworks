@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.pdb

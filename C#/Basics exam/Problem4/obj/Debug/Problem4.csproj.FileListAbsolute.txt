@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Basics exam\Problem4\bin\Debug\Problem4.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Basics exam\Problem4\bin\Debug\Problem4.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Basics exam\Problem4\bin\Debug\Problem4.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Basics exam\Problem4\obj\Debug\Problem4.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Basics exam\Problem4\obj\Debug\Problem4.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Basics exam\Problem4\obj\Debug\Problem4.csprojResolveAssemblyReference.cache

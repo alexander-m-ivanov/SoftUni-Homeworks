@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\10.PointinCircleOutsideOfARectangle\bin\Debug\10.PointinCircleOutsideOfARectangle.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\10.PointinCircleOutsideOfARectangle\bin\Debug\10.PointinCircleOutsideOfARectangle.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\10.PointinCircleOutsideOfARectangle\bin\Debug\10.PointinCircleOutsideOfARectangle.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\10.PointinCircleOutsideOfARectangle\obj\Debug\10.PointinCircleOutsideOfARectangle.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\10.PointinCircleOutsideOfARectangle\obj\Debug\10.PointinCircleOutsideOfARectangle.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\10.PointinCircleOutsideOfARectangle\obj\Debug\10.PointinCircleOutsideOfARectangle.pdb

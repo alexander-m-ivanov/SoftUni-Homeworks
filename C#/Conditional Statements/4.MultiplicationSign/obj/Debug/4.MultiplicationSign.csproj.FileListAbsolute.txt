@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.csprojResolveAssemblyReference.cache

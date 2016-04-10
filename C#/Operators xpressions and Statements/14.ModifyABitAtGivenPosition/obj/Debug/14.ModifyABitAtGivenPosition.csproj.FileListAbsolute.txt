@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.pdb

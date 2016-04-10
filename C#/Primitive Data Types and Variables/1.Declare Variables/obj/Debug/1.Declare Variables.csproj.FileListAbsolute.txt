@@ -1,0 +1,7 @@
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\1.Declare Variables\bin\Debug\1.Declare Variables.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\1.Declare Variables\bin\Debug\1.Declare Variables.pdb
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\1.Declare Variables\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\1.Declare Variables\obj\Debug\1.Declare Variables.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\1.Declare Variables\obj\Debug\1.Declare Variables.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Primitive Data Types and Variables\1.Declare Variables\obj\Debug\1.Declare Variables.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Primitive Data Types and Variables\1.Declare Variables\obj\Debug\1.Declare Variables.pdb

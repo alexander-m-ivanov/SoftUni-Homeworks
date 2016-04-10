@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\7.Sort3NumbersWithNestedIfs\bin\Debug\7.Sort3NumbersWithNestedIfs.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\7.Sort3NumbersWithNestedIfs\bin\Debug\7.Sort3NumbersWithNestedIfs.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\7.Sort3NumbersWithNestedIfs\bin\Debug\7.Sort3NumbersWithNestedIfs.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\7.Sort3NumbersWithNestedIfs\obj\Debug\7.Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\7.Sort3NumbersWithNestedIfs\obj\Debug\7.Sort3NumbersWithNestedIfs.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Conditional Statements\7.Sort3NumbersWithNestedIfs\obj\Debug\7.Sort3NumbersWithNestedIfs.pdb

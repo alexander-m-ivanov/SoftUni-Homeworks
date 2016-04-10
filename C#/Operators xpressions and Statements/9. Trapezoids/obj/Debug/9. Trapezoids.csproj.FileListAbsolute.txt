@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\9. Trapezoids\bin\Debug\_9.Trapezoids.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\9. Trapezoids\bin\Debug\_9.Trapezoids.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\9. Trapezoids\bin\Debug\_9.Trapezoids.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\9. Trapezoids\obj\Debug\9. Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\9. Trapezoids\obj\Debug\_9.Trapezoids.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\9. Trapezoids\obj\Debug\_9.Trapezoids.pdb

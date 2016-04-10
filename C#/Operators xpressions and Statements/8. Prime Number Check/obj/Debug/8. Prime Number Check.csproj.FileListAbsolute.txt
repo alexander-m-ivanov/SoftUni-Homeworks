@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\8. Prime Number Check\bin\Debug\_8.Prime_Number_Check.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\8. Prime Number Check\bin\Debug\_8.Prime_Number_Check.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\8. Prime Number Check\bin\Debug\_8.Prime_Number_Check.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\8. Prime Number Check\obj\Debug\_8.Prime_Number_Check.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\8. Prime Number Check\obj\Debug\_8.Prime_Number_Check.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\8. Prime Number Check\obj\Debug\8. Prime Number Check.csprojResolveAssemblyReference.cache

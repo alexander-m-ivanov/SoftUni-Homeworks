@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Problem 4. Rectangles\obj\Debug\Problem_4.Rectangles.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Problem 4. Rectangles\obj\Debug\Problem_4.Rectangles.pdb

@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\2. Trapezoid\bin\Debug\_2.Trapezoid.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\2. Trapezoid\bin\Debug\_2.Trapezoid.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\2. Trapezoid\bin\Debug\_2.Trapezoid.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\2. Trapezoid\obj\Debug\_2.Trapezoid.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\2. Trapezoid\obj\Debug\_2.Trapezoid.pdb

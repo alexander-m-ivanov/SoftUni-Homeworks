@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\11.BitwiseExtractBit\bin\Debug\11.BitwiseExtractBit.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\11.BitwiseExtractBit\bin\Debug\11.BitwiseExtractBit.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\11.BitwiseExtractBit\bin\Debug\11.BitwiseExtractBit.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\11.BitwiseExtractBit\obj\Debug\11.BitwiseExtractBit.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\11.BitwiseExtractBit\obj\Debug\11.BitwiseExtractBit.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\11.BitwiseExtractBit\obj\Debug\11.BitwiseExtractBit.pdb

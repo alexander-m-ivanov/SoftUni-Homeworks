@@ -1,0 +1,5 @@
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\4.Unicode Character\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\4.Unicode Character\bin\Debug\4.Unicode Character.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\4.Unicode Character\bin\Debug\4.Unicode Character.pdb
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\4.Unicode Character\obj\Debug\4.Unicode Character.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\4.Unicode Character\obj\Debug\4.Unicode Character.pdb

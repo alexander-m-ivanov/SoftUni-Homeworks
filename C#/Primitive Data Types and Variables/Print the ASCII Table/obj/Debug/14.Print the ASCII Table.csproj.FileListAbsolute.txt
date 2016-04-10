@@ -1,0 +1,7 @@
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\Print the ASCII Table\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\Print the ASCII Table\bin\Debug\Print the ASCII Table.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\Print the ASCII Table\bin\Debug\Print the ASCII Table.pdb
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\Print the ASCII Table\obj\Debug\Print the ASCII Table.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\Print the ASCII Table\obj\Debug\Print the ASCII Table.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Primitive Data Types and Variables\Print the ASCII Table\obj\Debug\Print the ASCII Table.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Primitive Data Types and Variables\Print the ASCII Table\obj\Debug\Print the ASCII Table.pdb

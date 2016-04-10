@@ -1,0 +1,5 @@
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\5.Boolean Variable\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\5.Boolean Variable\bin\Debug\5.Boolean Variable.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\5.Boolean Variable\bin\Debug\5.Boolean Variable.pdb
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\5.Boolean Variable\obj\Debug\5.Boolean Variable.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\5.Boolean Variable\obj\Debug\5.Boolean Variable.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.pdb
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\7.Quotes in Strings\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\7.Quotes in Strings\obj\Debug\7.Quotes in Strings.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\7.Quotes in Strings\obj\Debug\7.Quotes in Strings.pdb

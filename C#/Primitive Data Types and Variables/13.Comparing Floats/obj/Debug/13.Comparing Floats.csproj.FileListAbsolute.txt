@@ -1,0 +1,5 @@
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\13.Comparing Floats\bin\Debug\13.Comparing Floats.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\13.Comparing Floats\bin\Debug\13.Comparing Floats.pdb
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\13.Comparing Floats\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\13.Comparing Floats\obj\Debug\13.Comparing Floats.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\13.Comparing Floats\obj\Debug\13.Comparing Floats.pdb

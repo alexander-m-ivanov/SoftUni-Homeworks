@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\4.N-th Digit\bin\Debug\4.N-th Digit.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\4.N-th Digit\bin\Debug\4.N-th Digit.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\4.N-th Digit\bin\Debug\4.N-th Digit.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\4.N-th Digit\obj\Debug\4.N-th Digit.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\garbage\4.N-th Digit\obj\Debug\4.N-th Digit.pdb

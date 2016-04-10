@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Operators xpressions and Statements\bin\Debug\Operators xpressions and Statements.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Operators xpressions and Statements\bin\Debug\Operators xpressions and Statements.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Operators xpressions and Statements\bin\Debug\Operators xpressions and Statements.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Operators xpressions and Statements\obj\Debug\1. Odd or Even Integers.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Operators xpressions and Statements\obj\Debug\Operators xpressions and Statements.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\Operators xpressions and Statements\obj\Debug\Operators xpressions and Statements.pdb

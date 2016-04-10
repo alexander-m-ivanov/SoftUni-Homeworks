@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\5. Third Digit is 7\bin\Debug\_5.Third_Digit_is_7.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\5. Third Digit is 7\bin\Debug\_5.Third_Digit_is_7.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\5. Third Digit is 7\bin\Debug\_5.Third_Digit_is_7.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\5. Third Digit is 7\obj\Debug\5. Third Digit is 7.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\5. Third Digit is 7\obj\Debug\_5.Third_Digit_is_7.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\5. Third Digit is 7\obj\Debug\_5.Third_Digit_is_7.pdb

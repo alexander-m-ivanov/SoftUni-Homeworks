@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\2.Gravitation on the Moon\bin\Debug\2.Gravitation on the Moon.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\2.Gravitation on the Moon\bin\Debug\2.Gravitation on the Moon.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\2.Gravitation on the Moon\bin\Debug\2.Gravitation on the Moon.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\2.Gravitation on the Moon\obj\Debug\2.Gravitation on the Moon.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\2.Gravitation on the Moon\obj\Debug\2.Gravitation on the Moon.pdb

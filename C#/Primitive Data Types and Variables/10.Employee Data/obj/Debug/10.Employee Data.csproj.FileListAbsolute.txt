@@ -1,0 +1,7 @@
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\10.Employee Data\bin\Debug\10.Employee Data.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\10.Employee Data\bin\Debug\10.Employee Data.pdb
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\10.Employee Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\10.Employee Data\obj\Debug\10.Employee Data.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\10.Employee Data\obj\Debug\10.Employee Data.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Primitive Data Types and Variables\10.Employee Data\obj\Debug\10.Employee Data.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Primitive Data Types and Variables\10.Employee Data\obj\Debug\10.Employee Data.pdb

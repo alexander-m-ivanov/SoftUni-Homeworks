@@ -1,0 +1,5 @@
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\8.Isosceles Triangle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\8.Isosceles Triangle\bin\Debug\8.Isosceles Triangle.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\8.Isosceles Triangle\bin\Debug\8.Isosceles Triangle.pdb
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\8.Isosceles Triangle\obj\Debug\8.Isosceles Triangle.exe
+C:\Documents and Settings\Sasho\My Documents\Visual Studio 2008\Projects\Primitive Data Types and Variables\8.Isosceles Triangle\obj\Debug\8.Isosceles Triangle.pdb

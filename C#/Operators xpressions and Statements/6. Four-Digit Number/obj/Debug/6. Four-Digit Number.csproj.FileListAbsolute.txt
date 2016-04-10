@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\6. Four-Digit Number\bin\Debug\_6.Four_Digit_Number.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\6. Four-Digit Number\bin\Debug\_6.Four_Digit_Number.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\6. Four-Digit Number\bin\Debug\_6.Four_Digit_Number.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\6. Four-Digit Number\obj\Debug\_6.Four_Digit_Number.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\6. Four-Digit Number\obj\Debug\_6.Four_Digit_Number.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\SOFTUNI HOMEWROKS\Operators xpressions and Statements\6. Four-Digit Number\obj\Debug\6. Four-Digit Number.csprojResolveAssemblyReference.cache
