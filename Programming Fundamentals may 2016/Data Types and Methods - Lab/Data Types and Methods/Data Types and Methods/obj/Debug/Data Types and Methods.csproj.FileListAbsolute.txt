@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\Data Types and Methods\bin\Debug\Data Types and Methods.exe.config
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\Data Types and Methods\bin\Debug\Data Types and Methods.exe
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\Data Types and Methods\bin\Debug\Data Types and Methods.pdb
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\Data Types and Methods\obj\Debug\Data Types and Methods.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\Data Types and Methods\obj\Debug\Data Types and Methods.exe
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\Data Types and Methods\obj\Debug\Data Types and Methods.pdb

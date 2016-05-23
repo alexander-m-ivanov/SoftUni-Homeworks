@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\6.TriplesOfLatinLetters\bin\Debug\6.TriplesOfLatinLetters.exe.config
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\6.TriplesOfLatinLetters\bin\Debug\6.TriplesOfLatinLetters.exe
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\6.TriplesOfLatinLetters\bin\Debug\6.TriplesOfLatinLetters.pdb
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\6.TriplesOfLatinLetters\obj\Debug\6.TriplesOfLatinLetters.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\6.TriplesOfLatinLetters\obj\Debug\6.TriplesOfLatinLetters.exe
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\6.TriplesOfLatinLetters\obj\Debug\6.TriplesOfLatinLetters.pdb

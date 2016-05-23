@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\9.AnimalType\bin\Debug\9.AnimalType.exe.config
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\9.AnimalType\bin\Debug\9.AnimalType.exe
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\9.AnimalType\bin\Debug\9.AnimalType.pdb
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\9.AnimalType\obj\Debug\9.AnimalType.exe
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\9.AnimalType\obj\Debug\9.AnimalType.pdb

@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\4.Elevator\bin\Debug\4.Elevator.exe.config
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\4.Elevator\bin\Debug\4.Elevator.exe
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\4.Elevator\bin\Debug\4.Elevator.pdb
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\4.Elevator\obj\Debug\4.Elevator.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\4.Elevator\obj\Debug\4.Elevator.exe
+C:\Users\ASUS\Documents\SoftUni-Homeworks\Programming Fundamentals may 2016\Data Types and Methods - Lab\Data Types and Methods\4.Elevator\obj\Debug\4.Elevator.pdb
