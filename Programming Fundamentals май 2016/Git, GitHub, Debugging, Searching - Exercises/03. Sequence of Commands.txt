@@ -1,0 +1,148 @@
+using System;
+using System.Linq;
+
+public class SequenceOfCommands_broken
+{
+    private const char ArgumentsDelimiter = ' ';
+
+    public static void Main()
+    {
+        int sizeOfArray = int.Parse(Console.ReadLine());
+
+        long[] array = Console.ReadLine()
+            .Split(ArgumentsDelimiter)
+            .Select(long.Parse)
+            .ToArray();
+
+        string command = Console.ReadLine();
+
+        while (!command.Equals("stop"))
+        {
+            int[] args = new int[2];
+            string[] stringParams = new string[3];
+
+            if (command == "rshift")
+            {
+                array = ArrayShiftRight(array);
+            }
+            else if (command == "lshift")
+            {
+                array = ArrayShiftLeft(array);
+            }
+            else
+            {
+                stringParams = command.Split(ArgumentsDelimiter);
+                args[0] = int.Parse(stringParams[1]);
+                args[1] = int.Parse(stringParams[2]);
+
+                array = PerformAction(array, stringParams, args);
+            }
+
+            Console.WriteLine();
+
+            command = Console.ReadLine();
+        }
+    }
+
+    static long[] PerformAction(long[] arr, string[] action, int[] args)
+    {
+        long[] array = arr.Clone() as long[];
+        int index = 0;
+        int value = 0;
+
+        if (args[0] == 0)
+        {
+            index = args[0];
+            value = args[1];
+        }
+        else
+        {
+            index = args[0] - 1;
+            value = args[1];
+        }
+
+        switch (action[0])
+        {
+            case "multiply":
+                array[index] *= value;
+                PrintArray(array);
+                return array;
+            case "add":
+                array[index] += value;
+                PrintArray(array);
+                return array;
+            case "subtract":
+                array[index] -= value;
+                PrintArray(array);
+                return array;
+            case "lshift":
+                ArrayShiftLeft(array);
+                PrintArray(array);
+                return array;
+            case "rshift":
+                ArrayShiftRight(array);
+                PrintArray(array);
+                return array;
+            default:
+                return array;
+        }
+    }
+
+    private static long[] ArrayShiftRight(long[] array)
+    {
+        long[] arr = new long[array.Length];
+
+        long rshiftValue = array[array.Length - 1];
+        Console.Write(array[array.Length - 1] + " ");
+
+        for (int i = 1; i <= array.Length - 1; i++)
+        {
+            if (i < array.Length - 1)
+            {
+                arr[i] = array[i - 1];
+                Console.Write(arr[i] + " ");
+            }
+            else
+            {
+                arr[i] = array[i - 1];
+                Console.Write(arr[i]);
+            }
+        }
+        arr[0] = rshiftValue;
+        array = arr;
+
+        return array;
+    }
+
+    private static long[] ArrayShiftLeft(long[] array)
+    {
+        long[] arr = new long[array.Length];
+
+        long lshiftValue = array[0];
+
+        for (int i = 1; i <= array.Length; i++)
+        {
+            if (i <= array.Length - 1)
+            {
+                arr[i - 1] = array[i];
+                Console.Write(arr[i - 1] + " ");
+            }
+            else
+            {
+                arr[arr.Length - 1] = lshiftValue;
+                Console.Write(arr[i - 1]);
+            }
+        }
+        array = arr;
+
+        return array;
+    }
+
+    private static void PrintArray(long[] array)
+    {
+        for (int i = 0; i < array.Length; i++)
+        {
+            Console.Write(array[i] + " ");
+        }
+    }
+}
