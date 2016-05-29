@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.PrintPartOfASCII", "16.P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.DifferentIntegersSize", "17.DifferentIntegersSize\17.DifferentIntegersSize.csproj", "{C0A14899-FD67-4B27-88D6-89AD8F58EAFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.HelloName", "18.HelloName\18.HelloName.csproj", "{185AB87A-EEA7-4103-A955-B5969AB9ECFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.MaxMethod", "19.MaxMethod\19.MaxMethod.csproj", "{3356EA36-7D17-4DAE-89B8-ED84B0CA8C17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{C0A14899-FD67-4B27-88D6-89AD8F58EAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0A14899-FD67-4B27-88D6-89AD8F58EAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0A14899-FD67-4B27-88D6-89AD8F58EAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185AB87A-EEA7-4103-A955-B5969AB9ECFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185AB87A-EEA7-4103-A955-B5969AB9ECFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185AB87A-EEA7-4103-A955-B5969AB9ECFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185AB87A-EEA7-4103-A955-B5969AB9ECFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3356EA36-7D17-4DAE-89B8-ED84B0CA8C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3356EA36-7D17-4DAE-89B8-ED84B0CA8C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3356EA36-7D17-4DAE-89B8-ED84B0CA8C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3356EA36-7D17-4DAE-89B8-ED84B0CA8C17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
