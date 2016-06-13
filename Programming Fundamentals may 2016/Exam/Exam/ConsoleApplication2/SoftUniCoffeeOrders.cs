@@ -18,7 +18,7 @@ class SoftUniCoffeeOrders
         {
             pricePerCapsule = decimal.Parse(Console.ReadLine());
             orderDate = Console.ReadLine();
-            formatedDateTime = DateTime.ParseExact(orderDate, "d/MM/yyyy", CultureInfo.InvariantCulture);
+            formatedDateTime = DateTime.ParseExact(orderDate, "d/M/yyyy", CultureInfo.InvariantCulture);
             daysInMonth = DateTime.DaysInMonth(formatedDateTime.Year, formatedDateTime.Month);
             capsulesCount = decimal.Parse(Console.ReadLine());
 
