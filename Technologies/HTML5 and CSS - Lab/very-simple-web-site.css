@@ -1,0 +1,39 @@
+.heading {
+    background: #F5F5DC;
+    text-align: center;
+}
+
+.menu {
+    float: left;
+    margin-right: 10px;
+    background: #F5F5DC;
+    text-align: left;
+    padding: 1px;
+    width: 100px;
+}
+
+.menu li {
+    display: inline-block;
+    margin-left: -1px;
+}
+
+.menu li a {
+    display: block;
+    text-decoration: none;
+    padding: 5px 5px;
+    color: #A7322F;
+    margin-left: -20px;
+}
+
+.menu li a:hover {
+    background: #DEB887;
+    width: 60px;
+    margin-left: -20px;
+    border-radius: 3px;
+}
+
+.body {
+    margin-left: 5px;
+    float: none;
+    background: #F5F5F5;
+}
