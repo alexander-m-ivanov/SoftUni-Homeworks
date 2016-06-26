@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Show / Hide Element</title>
+    </head>
+    <body>
+        Welcome to our course. <a href="#" id="showTextLink"
+         onclick="showText()">(read more)</a>
+        <span id="hiddenText" style="display: none">
+            I am some hidden text.I am some hidden text.
+        I am some hidden text.I am some hidden text.
+        I am some hidden text.I am some hidden text.
+        I am some hidden text.I am some hidden text.
+        I am some hidden text.I am some hidden text.
+        I am some hidden text.I am some hidden text.
+        I am some hidden text.I am some hidden text.
+        I am some hidden text.I am some hidden text.
+        I am some hidden text.I am some hidden text.
+        I am some hidden text.I am some hidden text.
+        I am some hidden text.I am some hidden text.</span>
+
+        <script>
+            function showText() {
+                document.getElementById('hiddenText').style.display
+                        = 'inline';
+                document.getElementById('showTextLink').style.display
+                        = 'none';
+            }
+        </script>
+    </body>
+</html>
