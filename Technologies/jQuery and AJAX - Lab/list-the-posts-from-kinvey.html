@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>List the Posts from Kinvey</title>
+        <script src="https://code.jquery.com/jquery-3.0.0.min.js">
+        </script>
+        <style>
+            .title { background: #DDD; padding: 10px }
+            .author { background: #DDF; padding: 10px; margin-left: 15px }
+            .year { background: red; padding: 10px; margin-left: 30px }
+            .body { background: blue; padding: 10px; margin-left: 45px }
+        </style>
+    </head>
+    <body>
+    <button onclick="callKinvey()">AJAX call</button>
+        <script>
+            function callKinvey() {
+                $.ajax({
+                    method: "GET",
+                    url: "https://baas.kinvey.com/appdata/kid_r1nBOwTS/books",
+                    headers: {
+                        "Authorization": "Basic " + btoa("guest:guest")
+                    },
+                    //data: { … },
+                    success: function(data, status) {
+                        //$('body').append(JSON.stringify(data));
+                        showBooks(data);
+                    },
+                    error: function(data, status) {
+                        $('body').append(JSON.stringify(data));
+                    }
+                });
+                function showBooks(books) {
+                    for (let p of books){
+                        $('body').append($('<div class="title">').text(p.title));
+                        $('body').append($('<div class="author">').text(p.author));
+                        $('body').append($('<div class="year">').text(p.year));
+                        $('body').append($('<div class="body">').text(p.body));
+                    }
+                }
+            }
+        </script>
+
+        <br>
+        Title: <input type="text" id="newPostTitle" />
+        Author: <input type="text" id="newPostAuthor" />
+        Year: <input type="text" id="newPostYear" />
+        Body: <input type="text" id="newPostBody" />
+        <button onclick="createPost()">Create New Post</button>
+
+        <script>
+            function createPost() {
+                $.ajax({
+                    method: "POST",
+                    url: "https://baas.kinvey.com/appdata/kid_r1nBOwTS/books",
+                    headers: {
+                        "Authorization": "Basic " + btoa("guest:guest")
+                    },
+                    data: {
+                        title: $('#newPostTitle').val(),
+                        author: $('#newPostAuthor').val(),
+                        year: $('#newPostYear').val(),
+                        body: $('#newPostBody').val()
+                    },
+                    success: function(data, status) {
+                        alert('Created!');
+                        callKinvey();
+                    },
+                    error: function(data, status) {
+                        $('body').append(JSON.stringify(data));
+                    }
+                });
+            }
+    </script>
+    </body>
+</html>
+
+a*1000
