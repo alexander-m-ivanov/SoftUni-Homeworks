@@ -34,7 +34,7 @@
                         ?>
                         <button>
                             <?php
-                            echo 1;
+                            echo 0;
                             ?>
                         </button>
                         <?php
@@ -72,7 +72,7 @@
                         ?>
                         <button>
                             <?php
-                            echo 1;
+                            echo 0;
                             ?>
                         </button>
                         <?php
