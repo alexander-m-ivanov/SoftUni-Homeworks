@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Файлове";
+}
+
+<h1>Тук ще има файлове</h1>
+
+@model List<string>
+
+@foreach (var file in Model)
+{
+    <div>@file</div>
+}

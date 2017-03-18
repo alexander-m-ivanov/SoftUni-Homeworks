@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+C:\Users\ASUS\Documents\SoftUni-Homeworks\Technologies\Java\.metadata\.plugins\org.eclipse.jdt.core
+2226992936.index
